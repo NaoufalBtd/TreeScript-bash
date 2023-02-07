@@ -1,6 +1,6 @@
 ## Introduction
 
-This shell code is a script that helps to visualize and organize files in a terminal. The script uses ANSI color codes and escape sequences to format the text output.
+This shell code is a script that helps to visualize the files in a terminal. The script uses two visualizations modes to choose from.
 
 ## Prerequisites
 
